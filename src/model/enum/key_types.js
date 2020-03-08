@@ -1,0 +1,4 @@
+export default {
+  NATURAL: 'NATURAL',
+  ENHARMONIC: 'ENHARMONIC'
+}
